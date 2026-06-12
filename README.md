@@ -40,7 +40,7 @@ Analysis of **101,766 diabetic patient records** using MySQL to identify key dri
 - **Younger patients [20-30)** surprisingly show the highest early readmission rate at 14.24%
 
 ## Dashboard
-![Hospital Readmission Dashboard](Images/Dashboard.png)
+![Hospital Readmission Dashboard](main/Dashboard.png)
 
 ## Files
 - \`analysis.sql\` — all 5 MySQL queries
